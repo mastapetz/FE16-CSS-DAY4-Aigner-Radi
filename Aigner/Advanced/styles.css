@@ -1,0 +1,20 @@
+.Album{
+    display: grid;
+    grid-template: repeat(8, fr) /repeat(8, fr);
+    gap: 20px;
+    min-width: 90vw;
+    min-height: 60vh;
+}
+
+.pic1{
+    border: 1px solid red;
+    /* grid-area: 0/0/3/4; */
+}
+
+.pic2{
+    /* grid-area: 0/4/6/8; */
+}
+
+.pic3{
+    /* grid-area: 3/0/5/2; */
+}
