@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    min-height: 5vh;
+    text-align: center;
+    background:cyan;
+}
+
+
+a {
+    color: darkblue;
+}
+/* a:link {
+    background-color: magenta;
+} */
+
+a:hover{
+    background-color:brown;
+    color: aqua;
+    font-size: x-large;
+}
