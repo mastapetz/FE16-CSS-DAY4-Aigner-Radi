@@ -12,9 +12,6 @@ header {
 a {
     color: darkblue;
 }
-/* a:link {
-    background-color: magenta;
-} */
 
 a:hover{
     background-color:brown;
