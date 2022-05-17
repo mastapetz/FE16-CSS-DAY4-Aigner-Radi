@@ -52,14 +52,3 @@ img{
     grid-row: 6/9;
     grid-column: 5/9;
 }
-
-/* .pics{
-    grid-column: 15/16;
-    grid-row: 1/16;
-    
-    background-color: aqua;
-    border: 1px solid black;
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-} */
