@@ -1,5 +1,9 @@
 .Album{
     display: grid;
-    grid-template: repeat(8,12.5%) /repeat(8,12,5%)
-    
+    grid-template: repeat(8,12.5%) /repeat(8,12,5%);
+    gap: 20px;
+}
+
+.pic1{
+    grid-area: 0/0/3/4;
 }
